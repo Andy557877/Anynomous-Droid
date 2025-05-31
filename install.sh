@@ -3,7 +3,7 @@
 # Versi 1.0 - By [Nama Anda]
 
 # Konfigurasi
-REPO_URL="https://github.com/username/Anynomous-Droid.git"
+REPO_URL="https://github.com/Andy557877/Anynomous-Droid.git"
 INSTALL_DIR="$HOME/Anynomous-Droid"
 ANON_DIR="$HOME/.anydroid"
 DISTRO_ALIAS="anon-ubuntu"
