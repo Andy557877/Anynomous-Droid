@@ -8,5 +8,5 @@ Installation
 ### Prerequisites - Android 8.0+ device (Snapdragon 665+ recommended) 
 - 3GB+ available storage - Stable internet connection ### Installation Steps 1. **
 - Install Termux** from [F-Droid](https://f-droid.org/repo/com.termux_118.apk)
-- 2. Open Termux and run: ```bash pkg update -y && pkg upgrade -y pkg install git -y git clone https://github.com/username/Anynomous-Droid.git
+- 2. Open Termux and run: ```bash pkg update -y && pkg upgrade -y pkg install git -y git clone https://github.com/Andy557877/Anynomous-Droid.git
   3.  cd Anynomous-Droid chmod +x install.sh ./install.sh
